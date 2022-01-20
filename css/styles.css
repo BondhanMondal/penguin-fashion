@@ -1,0 +1,19 @@
+/* Common css */
+.common-button{
+    background-image: linear-gradient(#A4BC46, #85A019);
+ 
+}
+.common-color{
+    color: #FABE4C;
+}
+.section-title{
+    margin-top: 50px;
+    font-weight: 400;
+    font-size: 48px;
+    color: #363958;
+    
+}
+
+.top-left h1{
+    font-size: 80px;
+}
